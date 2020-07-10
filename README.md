@@ -1,5 +1,5 @@
 ## Fábio Esteves 👋
-[![Linkedin Badge](https://img.shields.io/badge/-danielobara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiomartineves/)](https://www.linkedin.com/in/fabiomartineves/)
+[![Linkedin Badge](https://img.shields.io/badge/-fabiomartineves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiomartineves/)](https://www.linkedin.com/in/fabiomartineves/)
 
 ## Hi 👋, 
 I'm Fábio Esteves, I'm a CTO & Full Stack developer 💻 
