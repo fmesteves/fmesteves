@@ -4,23 +4,16 @@
 "Ascolta il tuo cuore. Esso conosce tutte le cose."
 
 ## Olá 👋, 🇧🇷
-Eu sou Fabio Esteves, sou CTO e Desenvolvedor 💻 
+Eu sou Fabio Esteves, sou Head de Tecnologia e Desenvolvedor 💻 
 
-- 🔭 Atualmente estou trabalhando com Node.js, PHP, Python, React e React Native
-- 🌱 Estou estudando Dart e Flutter
-- 💬 Fique a vontade para me perguntar sobre técnologia, ciência, jogos, fotográfia e história
+- 🔭 Atualmente estou trabalhando com Node.js, PHP, Python e Dart/Flutter.
+- 🌱 Estou estudando DDD e TDD.
+- 💬 Fique a vontade para me perguntar sobre técnologia, ciência, jogos, fotográfia e história.
 
 ## Ciao 👋, 🇮🇹
-Io sono Fabio, sono CTO e Programmatore 💻 
+Io sono Fabio, sono Head of Technology e Programmatore 💻 
 
-- 🔭 Attualmente sto lavorando con Node.js, PHP, Python, React e React Native
-- 🌱 Sto studiando Dart e Flutter
-- 💬 Chiedimi di tecnologia, scienza, giochi, fotografia e storia
-
-## Hi 👋, 🇬🇧
-I’m Fabio Esteves, I’m a CTO & Developer 💻 
-
-- 🔭 I’m currently working on Node.js, PHP, Python, React & React Native
-- 🌱 I’m currently learning Dart & Flutter
-- 💬 Ask me about tech, science, games & history
+- 🔭 Attualmente sto lavorando con Node.js, PHP, Python i Dart/Flutter.
+- 🌱 Sto studiando DDD i TDD.
+- 💬 Chiedimi di tecnologia, scienza, giochi, fotografia e storia.
 
