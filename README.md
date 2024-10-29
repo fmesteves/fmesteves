@@ -6,14 +6,14 @@
 ## Olá 👋, 🇧🇷
 Eu sou Fabio Esteves, sou Head de Tecnologia e Desenvolvedor 💻 
 
-- 🔭 Atualmente estou trabalhando com Node.js, PHP, Python e Dart/Flutter.
+- 🔭 Atualmente estou trabalhando com Node.js, PHP, Python e React Native.
 - 🌱 Estou estudando DDD e TDD.
 - 💬 Fique a vontade para me perguntar sobre técnologia, ciência, jogos, fotográfia e história.
 
 ## Ciao 👋, 🇮🇹
 Io sono Fabio, sono Head of Technology e Programmatore 💻 
 
-- 🔭 Attualmente sto lavorando con Node.js, PHP, Python i Dart/Flutter.
+- 🔭 Attualmente sto lavorando con Node.js, PHP, Python i React Native.
 - 🌱 Sto studiando DDD i TDD.
 - 💬 Chiedimi di tecnologia, scienza, giochi, fotografia e storia.
 
