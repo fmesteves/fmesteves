@@ -4,16 +4,7 @@
 "Ascolta il tuo cuore. Esso conosce tutte le cose."
 
 ## Olá 👋, 🇧🇷
-Eu sou Fabio Esteves, sou Head de Tecnologia e Desenvolvedor 💻 
+Eu sou Fabio Esteves, CTO & Head de Tecnologia 💻 
 
-- 🔭 Atualmente estou trabalhando com Node.js, PHP, Python e React Native.
-- 🌱 Estou estudando DDD e TDD.
-- 💬 Fique a vontade para me perguntar sobre técnologia, ciência, jogos, fotográfia e história.
-
-## Ciao 👋, 🇮🇹
-Io sono Fabio, sono Head of Technology e Programmatore 💻 
-
-- 🔭 Attualmente sto lavorando con Node.js, PHP, Python i React Native.
-- 🌱 Sto studiando DDD i TDD.
-- 💬 Chiedimi di tecnologia, scienza, giochi, fotografia e storia.
+- 🔭 Atualmente estou trabalhando com Node, PHP, Python e React Native.
 
